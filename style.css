@@ -1,0 +1,91 @@
+@font-face {
+    font-family: Fira Code light;
+    src: url(../keyboards/font/FiraCode-Light.ttf);
+}
+
+@font-face {
+    font-family: Fira Code regular;
+    src: url(../keyboards/font/FiraCode-Regular.ttf);
+}
+
+@font-face {
+    font-family: Fira Code medium;
+    src: url(../keyboards/font/FiraCode-Medium.ttf);
+}
+
+@font-face {
+    font-family: Fira Code semibold;
+    src: url(../keyboards/font/FiraCode-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Fira Code bold;
+    src: url(../keyboards/font/FiraCode-Bold.ttf);
+}
+
+body {
+    background-color: #eeece3;
+    margin: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 60px;
+    width: auto;
+}
+
+#h1 {
+  font-family: Fira Code regular;
+  
+}
+
+#h2 {
+    font-family: Fira Code light;
+    
+  }
+
+#h2:hover {
+    color: #7fa480;
+}
+
+#h3 {
+    font-family: Fira Code light;
+    
+  }
+
+  #h4 {
+    font-family: Fira Code light;
+    
+  }
+
+  #h4:hover {
+    color: #7fa480;
+  }
+
+#p1 {
+    font-family: Fira Code regular;
+}
+
+#p2 {
+    font-family: Fira Code medium;
+ 
+}
+
+#p3 {
+    font-family: Fira Code semibold;
+
+}
+
+#p3:hover {
+    color: #7fa480;
+  }
+
+img {
+    max-width: 75%;
+    max-height: 75%;
+}
+
+
+#img2 {
+    max-width: 45%;
+    max-height: 45%;
+
+}
